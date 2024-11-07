@@ -1,2 +1,1 @@
-# twrp-device_infinix_Infinix-X6882
-Infinix Hot 50
+## TeamWin Recovery tree for Infinix Hot 50 ( Infinix-X6882 )
